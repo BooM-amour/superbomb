@@ -234,11 +234,11 @@ function create_config( )
 
 
 Our team!
-AmouR (@MR_Xface)
+AmouR (@MR_vViRuSs)
 
 Special thanks to:
 
-@MR_xface
+👾virus👾™
 
 ]],
     help_text_realm = [[
